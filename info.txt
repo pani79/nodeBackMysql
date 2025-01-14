@@ -1,1 +1,6 @@
 https://www.bezkoder.com/angular-16-node-js-express-mysql/
+
+
+Install
+
+npm install express sequelize mysql2 cors --save
